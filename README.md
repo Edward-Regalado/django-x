@@ -147,4 +147,4 @@ $ docker-compose run --rm web pip-compile requirements/requirements.in
 - [Configuring Github](https://wsvincent.com/django-allauth-tutorial/)
 - `django-allauth` supports [many, many other providers in the official docs](https://django-allauth.readthedocs.io/en/latest/providers.html) -->
 
-testing
+test branches
